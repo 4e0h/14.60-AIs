@@ -1,0 +1,30 @@
+#include <windows.h>
+
+VS_VERSION_INFO VERSIONINFO
+    FILEVERSION     4,0
+    PRODUCTVERSION  4,0
+    FILEFLAGSMASK   0x3fL
+    FILEFLAGS       0x0L
+    FILEOS          VOS_NT_WINDOWS32
+    FILETYPE        VFT_DLL
+    FILESUBTYPE     0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName",      "4e0h\0"
+            VALUE "FileDescription",  "A gameserver for v14.60 with player AIs. \0"
+            VALUE "FileVersion",      "4.0\0"
+            VALUE "InternalName",     "14.60-AIs-GS\0"
+            VALUE "LegalCopyright",   "4e0h - github.com/4e0h/14.60-AIs \0"
+            VALUE "OriginalFilename", "14.60-AIs-GS\0"
+            VALUE "ProductName",      "14.60-AIs-GS\0"
+            VALUE "ProductVersion",   "4.0\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
