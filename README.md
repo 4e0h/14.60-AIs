@@ -39,7 +39,7 @@
   <summary>Credits <3</summary>
   <ul>
     <li>4e0h (Did all the prompting for ai to add player ais)</li>
-    <li>Pongo (clauded needed an understanding for the ais)</li>
+    <li>Pongo (claude needed an understanding for the ais)</li>
     <li>Ploosh (Claude needed a base)</li>
     <li>Ralzify (Claude needed an understanding for quick commands)</li>
     <li>Claude (Did 90% of the work)</li>
