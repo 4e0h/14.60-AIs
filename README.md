@@ -1,4 +1,5 @@
 ## A gameserver for v14.60 with player AIs
+### If you would like to skid pls credit me, ploosh, pongo, and ralzify <3
 
 <details>
   <summary>Quick Commands</summary>
@@ -35,15 +36,9 @@
 </details>
 
 <details open>
-  <summary>Credits</summary>
+  <summary>Credits <3</summary>
   <ul>
-    <li>4e0h</li>
-  </ul>
-</details>
-
-<details open>
-  <summary>Extra Credits <3</summary>
-  <ul>
+    <li>4e0h (Did all the prompting for ai to add player ais)</li>
     <li>Pongo (clauded needed an understanding for the ais)</li>
     <li>Ploosh (Claude needed a base)</li>
     <li>Ralzify (Claude needed an understanding for quick commands)</li>
