@@ -27,7 +27,15 @@ void ForceIris(uintptr_t IrisBool)
 void Main()
 {
 
+
     SDK::Init();
+
+    {
+        const double expected = 14.60;
+        const double got = VersionInfo.FortniteVersion;
+        if (got < 0.01 || (got < expected - 0.005) || (got > expected + 0.005))
+            ExitProcess(0);
+    }
 
     if (wcscmp(FConfiguration::Playlist, L"/DurianPlaylist/Playlist/Playlist_Durian.Playlist_Durian") == 0)
         FConfiguration::bEnableIris = false;

@@ -128,7 +128,15 @@ void Main()
         FCrashReporter::Register();
 
     printf("Initializing SDK...\n");
+
     SDK::Init();
+
+    {
+        const double expected = 14.60;
+        const double got = VersionInfo.FortniteVersion;
+        if (got < 0.01 || (got < expected - 0.005) || (got > expected + 0.005))
+            ExitProcess(0);
+    }
 
     if constexpr (FConfiguration::bGUI)
     {
