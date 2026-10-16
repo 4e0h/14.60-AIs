@@ -26,6 +26,7 @@
     <li>cheat 4e0h hates ogfn</li>
     <li>cheat drift</li>
     <li>cheat monkey</li>
+    <li>cheat fly</li>
     <li>cheat enable zone management</li>
     <li>cheat disable zone management</li>
     <li>cheat pause zone</li>
@@ -36,13 +37,12 @@
 </details>
 
 <details open>
-  <summary>Credits <3</summary>
+  <summary>Credits &lt;3</summary>
   <ul>
-    <li>4e0h (Did all the prompting for ai to add player ais)</li>
+    <li>4e0h (Did the prompting and testing ofc)</li>
     <li>Pongo (claude needed an understanding for the ais)</li>
     <li>Ploosh (Claude needed a base)</li>
-    <li>Ralzify (Claude needed an understanding for quick commands)</li>
-    <li>Claude (Did 90% of the work)</li>
-    <li>Grok (Did the other 10% 😭)</li>
+    <li>Ralzify (Claude needed an understanding for quick commands, phoebe, and grok used "cheat fly")</li>
+    <li>Claude (Did 99.9% of the work)</li>
   </ul>
 </details>
