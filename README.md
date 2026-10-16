@@ -27,8 +27,6 @@
     <li>cheat drift</li>
     <li>cheat monkey</li>
     <li>cheat fly</li>
-    <li>cheat enable zone management</li>
-    <li>cheat disable zone management</li>
     <li>cheat pause zone</li>
     <li>cheat resume zone</li>
     <li>cheat pause bot spawn</li>
@@ -37,7 +35,7 @@
 </details>
 
 <details open>
-  <summary>Credits &lt;3</summary>
+  <summary>Credits <3</summary>
   <ul>
     <li>4e0h (Did the prompting and testing ofc)</li>
     <li>Pongo (claude needed an understanding for the ais)</li>
